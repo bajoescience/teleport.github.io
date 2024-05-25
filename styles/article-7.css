@@ -1,0 +1,81 @@
+@media (max-width: 760px) {
+  .article-7 {
+    background-image: linear-gradient(180deg, #2874de 0%, #735acc 100%);
+    color: white;
+  
+    padding: 0px 20px;
+    padding-top: 40px;
+    text-align: center;
+  }
+
+  .art-7-img {
+    width: 600px;
+  }
+}
+
+@media (min-width: 760px) {
+  .article-7 {
+    background-image: linear-gradient(180deg, #2874de 0%, #735acc 100%);
+    color: white;
+  
+    padding: 0px 20px;
+    padding-top: 40px;
+    text-align: center;
+  }
+
+  .art-7-img {
+    width: 800px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .article-7 {
+    background-image: linear-gradient(180deg, #2874de 0%, #735acc 100%);
+    color: white;
+  
+    padding: 0px 50px;
+    padding-top: 40px;
+    text-align: center;
+  }
+
+  .art-7-img {
+    width: 1000px;
+  }
+}
+
+@media (min-width: 1290px) {
+  .article-7 {
+    background-image: linear-gradient(180deg, #2874de 0%, #735acc 100%);
+    color: white;
+  
+    padding: 0px 130px;
+    padding-top: 40px;
+    text-align: center;
+  }
+
+  .art-7-img {
+    width: 1200px;
+    height: 469px;
+  }
+}
+
+.article-7 .section-1 {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+
+.article-7 .section-1 .div-1 {
+  width: 500px;
+  font-size: larger
+}
+
+.article-7 .section-1 .div-2 {
+  width: 800px;
+  font-size: large;
+}
+
+.article-7 .section-2 {
+  margin: 20px 0px;
+}

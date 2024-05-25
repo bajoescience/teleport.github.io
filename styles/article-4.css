@@ -1,0 +1,114 @@
+@media (max-width: 1024px) {
+  .article-4 {
+    background-color: #f2f4f7;
+  
+    margin: 50px 0px;
+    padding: 20px 0px;
+
+    border-radius: 10px;
+  
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  
+    line-height: 15px;
+  
+    position: relative;
+  
+    overflow: hidden;
+  }
+
+  .pic-1, .pic-2 {
+    opacity: 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .article-4 {
+    background-color: #f2f4f7;
+  
+    margin: 72px 20px;
+    padding: 50px 0px;
+
+    border-radius: 10px;
+  
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  
+    line-height: 15px;
+  
+    position: relative;
+  
+    overflow: hidden;
+  }
+}
+
+@media (min-width: 1290px) {
+  .article-4 {
+    background-color: #f2f4f7;
+  
+    margin: 72px 100px;
+    padding: 60px 0px;
+
+    border-radius: 10px;
+  
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  
+    position: relative;
+  
+    overflow: hidden;
+  }
+}
+
+.article-4 p {
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+.article-4 .section-1 {
+  padding-bottom: 30px;
+}
+
+
+.email-input {
+  border: 1px solid rgb(179, 179, 179);
+  border-radius: 35px;
+
+  width: 350px;
+
+  padding: 15px 70px;
+  padding-left: 15px; 
+  margin-right: 5px;
+
+  font-size: 15px;
+}
+
+.email-input::placeholder {
+  font-size: 17px;
+}
+
+.article-4 .section-2 {
+  position: absolute;
+  left: -40px;
+  bottom: -40px;
+}
+
+.article-4 .section-2 .img {
+  transform: rotate(25deg);
+}
+
+.article-4 .section-3 {
+  position: absolute;
+  bottom: 30px;
+  right: -600px;
+}
+
+.article-4 .section-3 .img {
+  transform: rotate(25deg);
+}
