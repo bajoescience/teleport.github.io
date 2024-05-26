@@ -1,1 +1,1 @@
-This project is a static website that fluid design for all viewport sizes.
+This project is a static website with fluid and responsive design for all viewport sizes.
