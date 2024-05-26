@@ -3,10 +3,15 @@
     background-image: linear-gradient(180deg, #2874de 0%, #735acc 100%);
     color: white;
   
-    padding: 0px 20px;
+    padding: 0px 130px;
     padding-top: 40px;
+
     text-align: center;
-  }
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }  
 
   .art-7-img {
     width: 600px;
@@ -18,9 +23,14 @@
     background-image: linear-gradient(180deg, #2874de 0%, #735acc 100%);
     color: white;
   
-    padding: 0px 20px;
+    padding: 0px 130px;
     padding-top: 40px;
+
     text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   .art-7-img {
@@ -33,9 +43,14 @@
     background-image: linear-gradient(180deg, #2874de 0%, #735acc 100%);
     color: white;
   
-    padding: 0px 50px;
+    padding: 0px 130px;
     padding-top: 40px;
+
     text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   .art-7-img {
@@ -50,7 +65,12 @@
   
     padding: 0px 130px;
     padding-top: 40px;
+
     text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   .art-7-img {
